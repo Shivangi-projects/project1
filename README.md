@@ -1,2 +1,2 @@
 # project1
-game simon says
+game simon says!
